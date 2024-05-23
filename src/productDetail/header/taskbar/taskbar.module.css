@@ -1,0 +1,113 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    box-sizing: border-box;
+    padding-bottom: 20px;
+}
+
+.shopCo{
+font-family: Integral CF;
+font-size: 32px;
+font-weight: 700;
+line-height: 38.4px;
+text-align: left;
+width: 160px;
+height: 22px;
+padding-bottom: 40px;
+cursor: pointer;
+}
+
+.category{
+    display: flex;
+    padding-top: 10px;
+}
+.category ul{
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    height: 22px;
+    width: 321px;
+}
+.category li{
+font-family: Satoshi;
+font-size: 16px;
+font-weight: 400;
+line-height: 21.6px;
+text-align: left;
+}
+.containerSearch{
+display: flex;
+width: 577px;
+height: 48px;
+border-radius: 62px;
+background-color: #F0F0F0;
+flex-direction: row;
+padding-top: 13px;
+padding-left: 20px;
+gap: 10px;
+}
+.btnSearch{
+width: 24px;
+height: 24px;
+}
+.contentSearch{
+    font-family: Satoshi;
+font-size: 16px;
+font-weight: 400;
+line-height: 21.6px;
+text-align: left;
+color: #00000066;
+}
+.containerRight{
+    display: flex;
+    gap: 13px;
+    justify-content: left;
+}
+.search{
+    width:577px;
+    height: 48px;
+    gap: 12px;
+    background-color: #F0F0F0;
+}
+.line {
+    width: 1240px;
+    top: 134px;
+    left: 90px;
+    border: 1px 0px 0px 0px;
+    border-top: 1px solid rgb(218, 218, 218);
+}
+.containerLine{
+    display: flex;
+    padding-top: 100px;
+    padding-right: 40px;
+}
+.containerLeft{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+.containerLeft ul{
+    display: flex;
+    padding-left: 100px ;
+    gap: 7px;
+    color: #00000099;
+}
+.containerLeft li{
+    font-family: Satoshi;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+}
+.account{
+    display: flex;
+    padding-top: 10px;
+    gap: 20px;
+    padding-left: 20px;
+}
+.account a{
+    display: flex;
+}

@@ -1,0 +1,66 @@
+.container{
+    display: flex;
+    border: 1px;
+    gap: 10px;
+}
+.columnContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .columnContainer > div {
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+  }
+  .rowContainer {
+    display: flex;
+    justify-content: center;
+    border: 1px;
+    
+  }
+  
+  .rowContainer > div {
+    margin: 60px;
+    padding: 30px;
+    font-size: 10px;
+    align-items: center;
+  }
+  .title{
+    font-family: Integral CF;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57.6px;
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+}
+.card{
+    padding: 2rem;
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    background-color: var(white);
+    box-shadow: 1px 1px 10px rgba(0, 0 , 0, 2);
+    cursor: pointer;
+}
+.nameViewer{
+    font-family: Satoshi;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+}
+.content{
+    font-family: Satoshi;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;    
+}
+.icStar{
+    display: flex;
+    width: 15px;
+    height: 20px;
+}

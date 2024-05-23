@@ -1,0 +1,212 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.containerTop ul{
+    display: flex;
+    flex-direction: row;
+    gap: 400px;
+    padding-top: 70px;
+    justify-content: center;
+}
+.containerTop li{
+    font-family: Satoshi;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #00000099;    
+}
+.line {
+    width: 1240px;
+    top: 134px;
+    left: 90px;
+    border: 1px 0px 0px 0px;
+    border-top: 1px solid rgb(218, 218, 218);
+}
+.containerLine{
+    display: flex;
+    padding-top: 10px;
+    padding-right: 40px;
+}
+.Allreview{
+    display: flex;
+    width: 425px;
+    height: 32px;
+    top: 896px;
+    left: 100px;
+    padding-left: 100px;    
+}
+.Allreview p{
+    display: flex;
+    font-family: Satoshi;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32.4px;
+    text-align: left;    
+}
+.Allreview a{
+    display: flex;
+    font-family: Satoshi;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    padding-left: 7px;
+    padding-top: 7px;
+    color: #00000099;  
+}
+.reviewRight{
+    display: flex;
+    flex-direction: row;
+    width: 354px;
+    height: 48px;
+    top: 888px;
+    left: 986px;
+    gap: 10px;
+    justify-content: right;    
+}
+.reviewTop{
+    display: flex;
+    flex-direction: row;
+    gap: 550px
+}
+.VectorReview{
+    display: flex;
+    width: 48px;
+    height: 48px;
+    gap: 0px;
+    border-radius: 62px ;
+    background-color: #F0F0F0;
+}
+.lastest{
+    display: flex;
+    background-color: #F0F0F0;
+    width: 120px;
+    height: 48px;
+    border-radius: 62px;
+}
+.lastest ul{
+    display: flex;
+    flex-direction: row;
+    padding-left: 18px;
+    padding-top: 13px;
+    gap: 25px;
+}
+.lastest li{
+    font-family: Satoshi;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21.6px;
+    text-align: left;    
+}
+.writeReview{
+    display: flex;
+    background-color: #000000;
+    width: 166px;
+    height: 48px;
+    border-radius: 62px;
+    padding-left: 9px;
+}
+.writeReview p{
+    font-family: Satoshi;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21.6px;
+    text-align: left;
+    color: #FFFFFF;
+    padding-left: 20px;
+    padding-top: 13px;    
+}
+.VectorReview a{
+    padding-left: 14px;
+    padding-top: 14px;
+}
+.containerReview{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}
+.containerReviewRow{
+    display: flex;
+    padding-left: 100px;
+    gap: 15px;
+    padding-top: 15px;
+}
+.containerReviewPart{
+    display: inline;
+    flex-direction: column;
+    width: 610px;
+    height: auto;
+    top: 960px;
+    left: 100px;
+    gap: 342px;
+    border-radius: 20px;
+    border: 1px solid #0000001A;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.containerReviewPart ul{
+    display: flex;
+    gap: 7px;
+}
+.containerReviewPart h1{
+    width:  auto;
+    height: auto;
+    font-family: Satoshi;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+}
+.name{
+    display: flex;
+    flex-direction: row;
+    padding-top: 15px;
+    text-align: left;
+    gap: 7px;
+}
+.containerReviewPart p{
+    width: 522px;
+    height: 66px;
+    font-family: Satoshi;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    padding-top: 20px;
+    gap: 20px;
+    color: #00000099;        
+}
+.containerReviewPart h2{
+    font-family: Satoshi;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+    color: #00000099;
+    padding-top: 40px;
+}
+.containerLMR{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+.loadMoreReview{
+    display: inline;
+    width: 230px;
+    height: 52px;
+    top: 1762px;
+    left: 605px;
+    gap: 12px;
+    border-radius: 62px;
+    border: 1px;
+    text-align: center;
+    border: 1px solid #0000001A;
+    padding-top: 15px;
+}
+.loadMoreReview p{
+    font-family: Satoshi;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21.6px;
+}

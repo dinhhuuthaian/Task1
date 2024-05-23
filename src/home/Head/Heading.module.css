@@ -1,0 +1,19 @@
+.container{
+  display: flex;
+  width: auto;
+  height: 38px;
+  background-color: black;
+  justify-content: center;
+}
+.containerCenter{
+  display: flex;
+}
+.content{
+  padding-top: 10px;
+  font-family: Satoshi;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18.9px;   
+  color: #FFFFFF;
+  text-align: center;
+}

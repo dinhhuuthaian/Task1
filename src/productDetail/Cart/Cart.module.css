@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    position: relative;
+}
+.topRight{
+    position: absolute;
+}
+.navBag{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 19px;
+    width: 19px;
+    background-color: #F0F0F0;;
+    border-radius: 50%;
+    font-size: 13px;
+    font-weight: 700;
+    color: black;
+    margin-left: 23px;
+    
+}
+.shopingcart{
+    display: flex;
+    cursor: pointer;
+}

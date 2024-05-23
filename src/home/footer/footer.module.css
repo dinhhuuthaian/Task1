@@ -1,0 +1,179 @@
+.container{
+    display: flex;
+}
+.columnContainer{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    max-width: auto;
+    padding: 36px;
+    background-color: #F0F0F0;
+}
+.containerStay{
+    display: flex;
+    background-color: black;
+    width: auto;
+    height: auto;
+    padding: 36px;
+    border-radius: 20px;
+    justify-content: space-between;
+}
+.content{
+    font-family: Integral CF;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: left;
+    color: white;
+    width: 551px;
+    height: 94px;
+}
+.SubColumnContainer{
+    display: flex;
+    flex-direction: column;
+    width: 349px;
+    height: 108px;
+    gap: 10px;
+}
+.subContainer{
+    display: flex;
+    width: 349px;
+    height: 48px;
+    background-color: white;
+    border-radius: 62px;
+    justify-content: center;
+}
+.contentEmail{
+    font-family: Satoshi;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+    width: 173px;
+    height: 22px;
+    color: #00000066;
+    text-align: center;
+    justify-content: center;
+    padding-left: 10px;
+    padding-top: 12px;    
+}
+.icEmail{
+    width: 27px;
+    height: 27px;
+    padding-top: 15px;
+
+}
+.subContent{
+    font-family: Satoshi;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21.6px;
+    text-align: left;
+    width: 172px;
+    height: 22px;
+    justify-content: center;
+    padding-top: 10px;
+}
+.rowContainer{
+    display: flex;
+    flex-direction: row;
+    padding: 64px;
+    gap: 40px;
+    justify-content: center;
+}
+.columnContainerContent{
+    display: flex;
+    flex-direction: column;
+    height: 177px;
+    width: 248px;
+    gap: 15px;
+}
+.contentShopCo{
+    font-family: Integral CF;
+    font-size: 33.45px;
+    font-weight: 700;
+    line-height: 40.15px;
+    text-align: left;    
+}
+.contentInf{
+    font-family: Satoshi;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #00000099;
+    width: 248px;
+    height: 66px;
+    padding-top: 10px;    
+}
+.social {
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    gap: 10px;
+}
+.socialDiv{
+    display: inline;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    justify-content: center;
+    text-align: center;
+}
+.socialDivFB{
+    display: inline;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    justify-content: center;
+    text-align: center;
+}
+.social a{
+    display: block;
+    height: 28px;
+    width: 28px;
+    color: base/rgb(128, 18, 18);
+    background-color: rgba(255, 255, 255, 0,2);
+    text-align: center;
+    line-height: 30px;
+    border-radius: 50%;
+}
+.contentCPN{
+font-family: Satoshi;
+font-size: 16px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 3px;
+text-align: left;
+
+}
+.new1 {
+    border-top: 1px solid rgb(218, 218, 218);
+  }
+.contentWallet{ 
+    font-family: Satoshi;
+font-size: 14px;
+font-weight: 400;
+line-height: 18.9px;
+text-align: left;
+color: #00000099;
+}
+.containerRightEwallet{
+    display: flex;
+    flex-direction: row;
+    width: 1140px;
+    height: auto;
+    justify-content: right;
+    gap: 10px;
+}
+.containerWallet{
+    display: inline-block;
+    width: auto;
+    height: auto;
+    border-radius: 5.38px;
+    border: 0.22px;
+    background-color: #FFFFFF;
+    padding: 7px;
+}
+.containerRow{
+    display: flex;
+    flex-direction: row;
+}

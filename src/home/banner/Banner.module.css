@@ -1,0 +1,93 @@
+.banner{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    width: 1472px;
+    height: 122px;
+    top: 797px;
+
+}
+.banner > div {
+
+    margin: 10px;
+    padding: 30px;
+    font-size: 30px;
+    padding-left: 35px;
+    padding-right: 135px;
+}
+.versace{
+
+/* Group */
+
+position: banner;
+height: 33.16px;
+left: 6.94%;
+right: 81.49%;
+top: calc(50% - 33.16px/2 - 1327.42px);
+/* Vector */
+
+position: banner;
+left: 6.94%;
+right: 81.49%;
+top: 19.24%;
+bottom: 80%;
+
+color: #FFFFFF;
+
+
+}
+
+.zara{/* zara-logo-1 1 */
+
+/* Vector */
+
+position: banner;
+left: 0%;
+right: 0%;
+top: 0.02%;
+bottom: 0.02%;
+
+color: #FFFFFF;
+
+}
+.gucci{
+    /* gucci-logo-1 1 */
+/* Vector */
+
+position: banner;
+left: 0%;
+right: 0%;
+top: 5.16%;
+bottom: 5.16%;
+
+color: #FFFFFF;
+
+
+}
+.parada{
+    /* Vector */
+
+position: banner;
+left: 0%;
+right: 0%;
+top: 1.26%;
+bottom: 1.26%;
+
+color: #FFFFFF;
+
+}
+
+.calvinKlein{
+    /* Vector */
+
+position: banner;
+width: 206.79px;
+height: 33.35px;
+top: 841px;
+left: 1131.48px;
+gap: 0px;
+opacity: 0px;
+
+
+color: #FFFFFF;
+
+}
