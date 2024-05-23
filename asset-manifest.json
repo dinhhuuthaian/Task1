@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Task1/static/css/main.0f15752b.css",
-    "main.js": "/Task1/static/js/main.b8c8607f.js",
+    "main.css": "/Task1/static/css/main.3c410c85.css",
+    "main.js": "/Task1/static/js/main.40714432.js",
     "static/js/453.ed3810f9.chunk.js": "/Task1/static/js/453.ed3810f9.chunk.js",
     "static/media/Background.jpg": "/Task1/static/media/Background.d843f7e91344991445ca.jpg",
     "static/media/image3.png": "/Task1/static/media/image3.82d9868da1a17f92b325.png",
@@ -34,7 +34,7 @@
     "static/media/VectorShopingcart.svg": "/Task1/static/media/VectorShopingcart.631d04d3f7a644eec3c85ec4744d557d.svg",
     "static/media/Mastercard.svg": "/Task1/static/media/Mastercard.50d5fe1e5edf7553ad6fb759e1183fa4.svg",
     "static/media/VectorTrash.svg": "/Task1/static/media/VectorTrash.7981d020ecdd23b283185c091c542f09.svg",
-    "static/media/VectorSearchTaskbar.svg": "/Task1/static/media/VectorSearchTaskbar.302906bdcec8048b8fa653af84d44361.svg",
+    "static/media/VectorSearch.svg": "/Task1/static/media/VectorSearch.302906bdcec8048b8fa653af84d44361.svg",
     "static/media/Vector.svg": "/Task1/static/media/Vector.5bedf0c3f466cdaaa78696523f6a7478.svg",
     "static/media/VectorGit.svg": "/Task1/static/media/VectorGit.6d52249f8960afdebe4c4c3d7190bc29.svg",
     "static/media/VectorAddpromo.svg": "/Task1/static/media/VectorAddpromo.e2c191da64a590c3603ac27120c424e4.svg",
@@ -53,12 +53,12 @@
     "static/media/Star 4.svg": "/Task1/static/media/Star 4.2766076001b1c559ee4604cc7c21bf03.svg",
     "static/media/Star 5.svg": "/Task1/static/media/Star 5.35ea78819813e2c85df721d431b44670.svg",
     "static/media/Hstar 5.svg": "/Task1/static/media/Hstar 5.8c58078e1e9cb902c15e57b00cbbef26.svg",
-    "main.0f15752b.css.map": "/Task1/static/css/main.0f15752b.css.map",
-    "main.b8c8607f.js.map": "/Task1/static/js/main.b8c8607f.js.map",
+    "main.3c410c85.css.map": "/Task1/static/css/main.3c410c85.css.map",
+    "main.40714432.js.map": "/Task1/static/js/main.40714432.js.map",
     "453.ed3810f9.chunk.js.map": "/Task1/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f15752b.css",
-    "static/js/main.b8c8607f.js"
+    "static/css/main.3c410c85.css",
+    "static/js/main.40714432.js"
   ]
 }
