@@ -1,0 +1,19 @@
+warning: in the working copy of 'src/App.tsx', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/src/App.tsx b/src/App.tsx[m
+[1mindex 57fe7f5..385ea1f 100644[m
+[1m--- a/src/App.tsx[m
+[1m+++ b/src/App.tsx[m
+[36m@@ -8,13 +8,11 @@[m [mimport cartDetail from "cartDetail";[m
+ function App() {[m
+   return ([m
+     <BrowserRouter>[m
+[31m-        <switch>[m
+           <Routes>[m
+           <Route path="/" Component={Home}/>[m
+           <Route path="/ProductDetail" Component={ProducDetail}/> [m
+           <Route path="/cartDetail" Component={cartDetail}/>[m
+           </Routes>[m
+[31m-        </switch>[m
+     </BrowserRouter>[m
+   );[m
+ }[m

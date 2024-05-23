@@ -8,13 +8,11 @@ import cartDetail from "cartDetail";
 function App() {
   return (
     <BrowserRouter>
-        <switch>
           <Routes>
           <Route path="/" Component={Home}/>
           <Route path="/ProductDetail" Component={ProducDetail}/> 
           <Route path="/cartDetail" Component={cartDetail}/>
           </Routes>
-        </switch>
     </BrowserRouter>
   );
 }
