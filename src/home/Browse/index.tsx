@@ -1,8 +1,8 @@
 import browse from "./browse.module.css";
-import imgCasual from "/TASK 1/my-app/src/home/asset/image/imageCasual.png";
-import imgFormal from "/TASK 1/my-app/src/home/asset/image/imageFormal.png";
-import imgParty from "/TASK 1/my-app/src/home/asset/image/imageParty.png";
-import imgGym from "/TASK 1/my-app/src/home/asset/image/imageGym.png";
+import imgCasual from "../asset/image/imageCasual.png";
+import imgFormal from "../asset/image/imageFormal.png";
+import imgParty from "../asset/image/imageParty.png";
+import imgGym from "../asset/image/imageGym.png";
 type Props = {};
 
 const Browse = (props: Props) => {

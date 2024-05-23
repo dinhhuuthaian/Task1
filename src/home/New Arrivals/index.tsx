@@ -1,15 +1,15 @@
 import newArrival from './newArrival.module.css';
-import tShirt from '/TASK 1/my-app/src/home/asset/image/image1.png'
-import jean from '/TASK 1/my-app/src/home/asset//image/image2.png'
-import shirt from '/TASK 1/my-app/src/home/asset//image/image3.png'
-import tShirt2 from '/TASK 1/my-app/src/home/asset/image/image4.png'
-import TsImg1 from '/TASK 1/my-app/src/home/asset/image/image1-TopSelling.png'
-import TsImg2 from '/TASK 1/my-app/src/home/asset/image/image2-TopSelling.png'
-import TsImg3 from '/TASK 1/my-app/src/home/asset/image/image3-TopSelling.png'
-import TsImg4 from '/TASK 1/my-app/src/home/asset/image/image4-TopSelling.png'
-import star from '/TASK 1/my-app/src/home/asset/icon/Star 3.svg'
+import tShirt from '../asset/image/image1.png'
+import jean from '../asset//image/image2.png'
+import shirt from '../asset/image/image3.png'
+import tShirt2 from '../asset/image/image4.png'
+import TsImg1 from '../asset/image/image1-TopSelling.png'
+import TsImg2 from '../asset/image/image2-TopSelling.png'
+import TsImg3 from '../asset/image/image3-TopSelling.png'
+import TsImg4 from '../asset/image/image4-TopSelling.png'
+import star from '../asset/icon/Star 3.svg'
 import { Link } from 'react-router-dom';
-import hstar from '/TASK 1/my-app/src/home/asset/icon/Hstar 5.svg'
+import hstar from '../asset/icon/Hstar 5.svg'
 type Props = {}
 
 const NewArrival = (props: Props) => {

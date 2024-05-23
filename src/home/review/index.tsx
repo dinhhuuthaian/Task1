@@ -1,7 +1,7 @@
 import style from './review.module.css';
 import '@fortawesome/react-fontawesome';
-import img from "/TASK 1/my-app/src/home/asset/icon/Star 3.svg"
-import vec from "/TASK 1/my-app/src/home/asset/icon/Vector.svg"
+import img from "../asset/icon/Star 3.svg"
+import vec from "../asset/icon/Vector.svg"
 type Props = {}
 
 function Review({}: Props) {

@@ -1,9 +1,9 @@
 import style from './review.module.css'
-import vecR from '/TASK 1/my-app/src/home/asset/icon/VectorReivew.svg'
-import vecLastet from '/TASK 1/my-app/src/home/asset/icon/VectorLatest.svg'
-import star from '/TASK 1/my-app/src/home/asset/icon/Star 3.svg'
-import hStar from '/TASK 1/my-app/src/home/asset/icon/Star 5.svg'
-import vecCheck from '/TASK 1/my-app/src/home/asset/icon/Vector.svg'
+import vecR from '../../../home/asset/icon/VectorReivew.svg'
+import vecLastet from '../../../home/asset/icon/VectorLatest.svg'
+import star from '../../../home/asset/icon/Star 3.svg'
+import hStar from '../../../home/asset/icon/Star 5.svg'
+import vecCheck from '../../../home/asset/icon/Vector.svg'
 type Props = {}
 
 const Review = (props: Props) => {

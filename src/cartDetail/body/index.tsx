@@ -1,13 +1,13 @@
 import style from "./body.module.css"
-import vecH from "/TASK 1/my-app/src/home/asset/icon/VectorH.svg"
-import img11 from "/TASK 1/my-app/src/home/asset/image/image 11.png"
-import img12 from "/TASK 1/my-app/src/home/asset/image/image 12.png"
-import img13 from "/TASK 1/my-app/src/home/asset/image/image 13.png"
-import vecTrash from "/TASK 1/my-app/src/home/asset/icon/VectorTrash.svg"
-import minus from "/TASK 1/my-app/src/home/asset/icon/VectorMinus.svg"
-import plus from "/TASK 1/my-app/src/home/asset/icon/VectorPlus.svg"
-import vecAddcode from "/TASK 1/my-app/src/home/asset/icon/VectorAddpromo.svg"
-import vecArrow from "/TASK 1/my-app/src/home/asset/icon/VectorArrow.svg"
+import vecH from "../../home/asset/icon/VectorH.svg"
+import img11 from "../../home/asset/image/image 11.png"
+import img12 from "../../home/asset/image/image 12.png"
+import img13 from "../../home/asset/image/image 13.png"
+import vecTrash from "../../home/asset/icon/VectorTrash.svg"
+import minus from "../../home/asset/icon/VectorMinus.svg"
+import plus from "../../home/asset/icon/VectorPlus.svg"
+import vecAddcode from "../../home/asset/icon/VectorAddpromo.svg"
+import vecArrow from "../../home/asset/icon/VectorArrow.svg"
 type Props = {}
 
 const Body = (props: Props) => {
