@@ -1,7 +1,7 @@
 
 import style from './taskbar.module.css'
-import VecSearch from '/TASK 1/my-app/src/home/asset/icon/VectorSearchTaskbar.svg'
-import vecA from '/TASK 1/my-app/src/home/asset/icon/VectorAccount.svg'
+import VecSearch from '../../../home/asset/icon/VectorSearch.svg'
+import vecA from '../../../home/asset/icon/VectorAccount.svg'
 
 import { Link, useNavigate } from 'react-router-dom'
 import Cart from 'productDetail/Cart/cart'

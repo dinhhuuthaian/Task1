@@ -1,10 +1,10 @@
 import style from './suggest.module.css'
-import img7 from '/TASK 1/my-app/src/home/asset/image/image 7.png'
-import img8 from '/TASK 1/my-app/src/home/asset/image/image 8.png'
-import img9 from '/TASK 1/my-app/src/home/asset/image/image 9.png'
-import img10 from '/TASK 1/my-app/src/home/asset/image/image 10.png'
-import star4 from '/TASK 1/my-app/src/home/asset/icon/Star 4.svg'
-import star5 from '/TASK 1/my-app/src/home/asset/icon/Star 5.svg'
+import img7 from '../../../home/asset/image/image 7.png'
+import img8 from '../../../home/asset/image/image 8.png'
+import img9 from '../../../home/asset/image/image 9.png'
+import img10 from '../../../home/asset/image/image 10.png'
+import star4 from '../../../home/asset/icon/Star 4.svg'
+import star5 from '../../../home/asset/icon/Star 5.svg'
 
 type Props = {}
 
