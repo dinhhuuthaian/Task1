@@ -53,7 +53,6 @@ const cartSlice = createSlice({
       // Lưu trạng thái vào local storage
       saveState(state.items);
     },
-    // Thêm các hành động khác nếu cần
   },
 });
 
